@@ -17,11 +17,13 @@ This is an office building designed to accommodate over 1000 employees. Structur
 
 #### Brick, Concrete, and Glass boxes at various heights with lots of vegetation
 ![Image](./ext1.png)
+
 Notice the cars parked under the building in the bottom. This building had a more open floorplan that allowed a connection with the outside, but this would change in later buildings as terrorism in The Netherlands became more of a concern.
 (3)
 
 #### Full view of the repeated box pattern of the building
 ![Image](./ext2.png)
+
 These connected boxes form natural pathways in a grid-like manner, only tilted at an axis from the parking lot and train station.
 (3)
 
@@ -40,12 +42,14 @@ TODO - DRAW
 ### Interior
 #### Desk in the open plan office layout
 ![Image](./interior.png)
+
 You can see the social accessibility that Hertzberger was trying to achieve. A lack of walls means that from the desk you are easily among everyone else.
 (1)
 
 ### Surroundings
 #### Isometric view of the office in Google Earth
 ![Image](./google_earth.png)
+
 The surrounding region shaped how the building was developed. The proximity to other upper class residential and office buildings allowed this building to get the funding it needed for a unique design. The proximity to the train station contributed to the accessibility of the building, as it was easy to get to and move within.
 
 ## Sources Cited
