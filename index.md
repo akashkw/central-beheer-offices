@@ -59,6 +59,11 @@ In a brief interview regarding his thoughts about the building, Hertzberger reco
 ### Short Documentary
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vyOcLMvewu8/0.jpg)](http://www.youtube.com/watch?v=vyOcLMvewu8)
 One thing you might notice in this video is that Hertzberger created a makeup station so that women could put on makeup and gossip in private. This shows how focused he really was on making the employees comfortable, happy, and social.
+(2)
+
+### Related Blog
+There exists a related blog by Luis Arruti that discusses many aspects about this building. I find it interesting that he points out that Herman Hertzberger recieved one of the most prestigious awards in architecture, the Royal Gold Medal. He theorizes that this was due to his focus on the individual, rather than "function follows form" and I am inclined to agree with him.
+(3)
 
 
 ## Sources Cited
