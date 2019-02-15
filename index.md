@@ -1,7 +1,9 @@
 # Centraal Beheer Offices
+======
 ## Apeldoorn, Netherlands
 ### Herman Hertzberger
 Prins Willem-Alexanderlaan 651, 73111 NB Apeldoorn
+(1)
 
 You can use the [editor on GitHub](https://github.com/akashkw/central-beheer-offices/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -40,3 +42,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 2. Hertzberger, Herman, director. Centraal Beheer Apeldoorn in Van Gewest Tot Gewest. Youtube, 1978.
 
 3. Arruit, Luis. Centraal Beheer Offices Blog, Luis Arruit, 2015, centraalbeheeroffices.blogspot.com/.
+
+4. Duffy, Francis. “Hertzberger on the Slow Track.” Architects Journal, 16 Feb. 2012.
