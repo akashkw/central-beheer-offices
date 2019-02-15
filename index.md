@@ -58,6 +58,7 @@ In a brief interview regarding his thoughts about the building, Hertzberger reco
 
 ### Short Documentary
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vyOcLMvewu8/0.jpg)](http://www.youtube.com/watch?v=vyOcLMvewu8)
+
 One thing you might notice in this video is that Hertzberger created a makeup station so that women could put on makeup and gossip in private. This shows how focused he really was on making the employees comfortable, happy, and social.
 (2)
 
@@ -65,6 +66,13 @@ One thing you might notice in this video is that Hertzberger created a makeup st
 There exists a related blog by Luis Arruti that discusses many aspects about this building. I find it interesting that he points out that Herman Hertzberger recieved one of the most prestigious awards in architecture, the Royal Gold Medal. He theorizes that this was due to his focus on the individual, rather than "function follows form" and I am inclined to agree with him.
 (3)
 
+### Magazine Article
+There is a magazine article in the Architects Journal that talks about the historical significance of this building. He says that in particular, this building is unique for how well it addresses three interfaces. The interface between street and building, architecture and interior design, and individual and company. The open floor layout means the transition between outside and in is gradual and clean. The synthesis of the structural repetition and the fluid and varied interior design means that personality can be imposed on order. And the relaxing and comforting conditions soothe the tensions between company and individual.
+(4)
+
+### The Architects Website
+Herman Hertzberger started out from very humble beginnings, designing buildings in his attic at his home. He has since founded an Architecture firm called AHH that employs many talented individuals. When he was designing the offices, he intentionally left components exposed because he imagined a little boy asking his dad "what does that do". This means that the boy will get smarter and the dad has to stay sharp. He valued educating people on his buildings in this way.
+(1)
 
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
