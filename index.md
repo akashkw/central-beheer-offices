@@ -32,6 +32,16 @@ This article describes the concept of polyvalence in architecture, and how it pe
 
 #### Revisiting Herman Hertzberger and the Dutch Structuralists
 This article talks about the socialist ideology that is present in Dutch structuralism. The order and structure of these buildings were mean to encourage social order an social interaction. When the building was completed, Hertzberger directed the photographers to take photos of the employees socializing, playing games, and relaxing. He was very focused on portraying the social value of his architecture style, and thus his buildings had a note of the "us building a city" feeling that built up after the world wars.
+(6)
+
+### Artists Rendition of the Centraal Beheer Offices
+TODO - DRAW
+
+### Interior
+#### Desk in the open plan office layout
+![Image](./interior.png)
+You can see the social accessibility that Hertzberger was trying to achieve. A lack of walls means that from the desk you are easily among everyone else.
+(1)
 
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
