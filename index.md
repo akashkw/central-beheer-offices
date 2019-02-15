@@ -37,7 +37,7 @@ This article talks about the socialist ideology that is present in Dutch structu
 (6)
 
 ### Artists Rendition of the Centraal Beheer Offices
-TODO - DRAW
+![Image](./artist.png)
 
 ### Interior
 #### Desk in the open plan office layout
