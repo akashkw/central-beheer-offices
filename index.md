@@ -52,6 +52,12 @@ You can see the social accessibility that Hertzberger was trying to achieve. A l
 
 The surrounding region shaped how the building was developed. The proximity to other upper class residential and office buildings allowed this building to get the funding it needed for a unique design. The proximity to the train station contributed to the accessibility of the building, as it was easy to get to and move within.
 
+### Interview with Herman Hertzberger
+In a brief interview regarding his thoughts about the building, Hertzberger recounts his thoughts towards the employees. He didn't want them to just be a number, or be afraid to speak up about their working conditions. He wanted them to be able to personalize their desks in the way they like. In a sense, he wanted to capture the enormous vitality and inventiveness of organisational life.
+(4)
+
+### 
+
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
 
