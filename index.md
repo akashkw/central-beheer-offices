@@ -1,4 +1,4 @@
-![Image](./banner.png)
+![Image](./baner.png)
 # Centraal Beheer Offices (1968-1972)
 ### Apeldoorn, Netherlands
 #### Herman Hertzberger
