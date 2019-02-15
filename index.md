@@ -56,7 +56,10 @@ The surrounding region shaped how the building was developed. The proximity to o
 In a brief interview regarding his thoughts about the building, Hertzberger recounts his thoughts towards the employees. He didn't want them to just be a number, or be afraid to speak up about their working conditions. He wanted them to be able to personalize their desks in the way they like. In a sense, he wanted to capture the enormous vitality and inventiveness of organisational life.
 (4)
 
-### 
+### Short Documentary
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vyOcLMvewu8/0.jpg)](http://www.youtube.com/watch?v=vyOcLMvewu8)
+One thing you might notice in this video is that Hertzberger created a makeup station so that women could put on makeup and gossip in private. This shows how focused he really was on making the employees comfortable, happy, and social.
+
 
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
