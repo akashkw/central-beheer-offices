@@ -25,6 +25,11 @@ Notice the cars parked under the building in the bottom. This building had a mor
 These connected boxes form natural pathways in a grid-like manner, only tilted at an axis from the parking lot and train station.
 (3)
 
+### Printed Sources
+#### Polyvalence: The Competence of Form and Space with Regard to Different Interpretations
+This article describes the concept of polyvalence in architecture, and how it pertains to the Centraal Beheer Offices. Essentially, one can design a building to be perfectly tailored to the needs of the client, but this can result in overfitting and a lack of flexibility. On the other side of the spectrum, a space can be so devoid of tailoring that it borders on useless and bland for most purposes. The concept of polyvalence is to remain general enough to account for unexpected constraints and flexibility, while considering multiple of the primary uses of a space. The boxes in this building are polyvalent spaces, being used for offices, bathrooms, coffee shops, and more.
+(5)
+
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
 
@@ -33,3 +38,5 @@ These connected boxes form natural pathways in a grid-like manner, only tilted a
 3. Arruit, Luis. Centraal Beheer Offices Blog, Luis Arruit, 2015, centraalbeheeroffices.blogspot.com/.
 
 4. Duffy, Francis. “Hertzberger on the Slow Track.” Architects Journal, 16 Feb. 2012.
+
+5. "Polyvalence: The Competence of Form and Space with Regard to Different Interpretations." Architectural Design, September 5, 2014. Wiley.
