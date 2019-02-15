@@ -30,6 +30,9 @@ These connected boxes form natural pathways in a grid-like manner, only tilted a
 This article describes the concept of polyvalence in architecture, and how it pertains to the Centraal Beheer Offices. Essentially, one can design a building to be perfectly tailored to the needs of the client, but this can result in overfitting and a lack of flexibility. On the other side of the spectrum, a space can be so devoid of tailoring that it borders on useless and bland for most purposes. The concept of polyvalence is to remain general enough to account for unexpected constraints and flexibility, while considering multiple of the primary uses of a space. The boxes in this building are polyvalent spaces, being used for offices, bathrooms, coffee shops, and more.
 (5)
 
+#### Revisiting Herman Hertzberger and the Dutch Structuralists
+This article talks about the socialist ideology that is present in Dutch structuralism. The order and structure of these buildings were mean to encourage social order an social interaction. When the building was completed, Hertzberger directed the photographers to take photos of the employees socializing, playing games, and relaxing. He was very focused on portraying the social value of his architecture style, and thus his buildings had a note of the "us building a city" feeling that built up after the world wars.
+
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
 
@@ -40,3 +43,5 @@ This article describes the concept of polyvalence in architecture, and how it pe
 4. Duffy, Francis. “Hertzberger on the Slow Track.” Architects Journal, 16 Feb. 2012.
 
 5. "Polyvalence: The Competence of Form and Space with Regard to Different Interpretations." Architectural Design, September 5, 2014. Wiley.
+
+6. Rakesh, Ramchurn. "Revisiting Herman Hertzberger and the Dutch Structuralists." The Architects' Journal, November 13, 2014. ProQuest.
