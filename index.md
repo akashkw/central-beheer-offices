@@ -43,6 +43,11 @@ TODO - DRAW
 You can see the social accessibility that Hertzberger was trying to achieve. A lack of walls means that from the desk you are easily among everyone else.
 (1)
 
+### Surroundings
+#### Isometric view of the office in Google Earth
+![Image](./google_earth.png)
+The surrounding region shaped how the building was developed. The proximity to other upper class residential and office buildings allowed this building to get the funding it needed for a unique design. The proximity to the train station contributed to the accessibility of the building, as it was easy to get to and move within.
+
 ## Sources Cited
 1. Hertzberger, Herman. “Centraal Beheer Offices, Apeldoorn.” AHH, Architecturrstudio HH, www.ahh.nl/index.php/en/projects2/12-utiliteitsbouw/85-centraal-beheer-offices-apeldoorn
 
